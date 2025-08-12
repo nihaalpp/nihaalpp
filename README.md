@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Muhammed Nihal</h1>
-<h3 align="center">A Performance Test Engineer based on Banglore</h3>
+<h3 align="center">A Performance Test Engineer at Accenture,Banglore</h3>
 
 - 🌱 I’m currently learning **Data analysis**
 
 - 💬 Ask me about **Performance Testing and Data analysis**
 
-- 📫 How to reach me **nihalmhd100@gmail.com**
+- 📫 Reach out: **nihalmhd100@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
